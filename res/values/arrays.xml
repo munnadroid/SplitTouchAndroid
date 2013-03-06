@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actor_responses">
+        <item>John Joseph Jack Nicholson is a celebrated American actor film director, producer, and writer, widely viewed as one of the best in his profession. Throughout his career, Jack Nicholson has portrayed unique and challenging roles many of which include dark portrayals of neurotic and or psychopathic characters. Nicholsons twelve Oscar nominations make him the most nominated male actor of all time.</item>
+        <item>Jean Louis Xavier Trintignant is a French actor who has enjoyed international acclaim. He won the Best Actor Award at the 1969 Cannes Film Festival as well as the Best Actor Award at the César Awards 2013.</item>
+        <item>Kevin Michael Costner (born January 18, 1955) is an American actor, singer, musician, producer, director, and businessman. He has won two Academy Awards, three Golden Globe Awards, and one Emmy Award, and has been nominated for three BAFTA (British Academy of Film and Television Arts) Awards. Costners notable roles include Eliot Ness in The Untouchables, Crash Davis in Bull Durham, Ray Kinsella in Field of Dreams, Lt. John J. Dunbar in Dances with Wolves, Jim Garrison in JFK, Robin Hood in Robin Hood Prince of Thieves, and Frank Farmer in The Bodyguard.</item>
+        <item>Clinton Clint Eastwood, Jr. (born May 31, 1930) is an American film actor, director, producer, composer, and politician. Eastwood first came to prominence as a supporting cast member in the TV series Rawhide (1959–1966). He rose to fame for playing the Man with No Name in Sergio Leones Dollars trilogy of spaghetti westerns (A Fistful of Dollars, For a Few Dollars More, and The Good, the Bad and the Ugly) during the late 1960s, and as Harry Callahan in the Dirty Harry films (Dirty Harry, Magnum Force, The Enforcer, Sudden Impact, and The Dead Pool) throughout the 1970s and 1980s. These roles, among others, have made him an enduring cultural icon of a certain type of masculinity.</item>
+        <item>Humphrey DeForest Bogart (December 25, 1899 – January 14, 1957) was an American actor and is widely regarded as a cultural icon. In 1999, the American Film Institute ranked Bogart as the greatest male star in the history of American cinema.</item>
+   </string-array> 
+   <string-array name="movie_responses">   
+        <item>A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.</item>
+        <item>A mute gunslinger faces off against a gang of bounty hunters in the great blizzard of 1899, and a grim, tense struggle unfolds.</item>
+        <item>A kidnapped boy strikes up a friendship with his captor: an escaped convict on the run from the law, headed by an honorable U.S. Marshal.</item>
+        <item>A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.</item>
+        <item>Set in unoccupied Africa during the early days of World War II: An American expatriate meets a former lover, with unforeseen complications.</item>
+         
+    </string-array>
+</resources>
